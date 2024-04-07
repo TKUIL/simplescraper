@@ -1,0 +1,50 @@
+1712416802690	geckodriver	INFO	Listening on 127.0.0.1:57971
+1712416803743	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilewMMJC2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712416804187	Marionette	INFO	Marionette enabled
+1712416804300	Marionette	INFO	Listening on port 43371
+Read port: 43371
+1712416804537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.topuniversities.com/sites/default/files/js/js_P-lWkNyNJo5XNrlEchWb8W-TiC-iFugUlN0CDCs_16Y.js, line 32: unreachable code after return statement
+JavaScript error: https://www.topuniversities.com/sites/default/files/js/js_yIdaarjaUP-1_dBO56XPA1o3rFH-buWoDRSj6oGwft4.js, line 153: TypeError: $(...).slick is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 6947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712416813500	Marionette	INFO	Stopped listening on port 43371
+JavaScript warning: https://www.topuniversities.com/sites/default/files/js/js_26N2ye9TzdXFH_RUYykKFSIGQWMMdK2OCf2qcNLm9tE.js, line 1: Script terminated by timeout at:
+i@https://www.topuniversities.com/sites/default/files/js/js_26N2ye9TzdXFH_RUYykKFSIGQWMMdK2OCf2qcNLm9tE.js:1:89275
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1712417522968	geckodriver	INFO	Listening on 127.0.0.1:37247
+1712417524008	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile7G8USC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712417524537	Marionette	INFO	Marionette enabled
+1712417524626	Marionette	INFO	Listening on port 46391
+Read port: 46391
+1712417524973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.topuniversities.com/sites/default/files/js/js_P-lWkNyNJo5XNrlEchWb8W-TiC-iFugUlN0CDCs_16Y.js, line 32: unreachable code after return statement
+JavaScript error: https://www.topuniversities.com/sites/default/files/js/js_yIdaarjaUP-1_dBO56XPA1o3rFH-buWoDRSj6oGwft4.js, line 153: TypeError: $(...).slick is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 2736 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712417554565	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712417761034	geckodriver	INFO	Listening on 127.0.0.1:34291
+1712417762095	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLqRe3C"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712417762525	Marionette	INFO	Marionette enabled
+1712417762607	Marionette	INFO	Listening on port 36815
+Read port: 36815
+1712417762957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.topuniversities.com/sites/default/files/js/js_P-lWkNyNJo5XNrlEchWb8W-TiC-iFugUlN0CDCs_16Y.js, line 32: unreachable code after return statement
+JavaScript error: https://www.topuniversities.com/sites/default/files/js/js_yIdaarjaUP-1_dBO56XPA1o3rFH-buWoDRSj6oGwft4.js, line 153: TypeError: $(...).slick is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 3386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712417792548	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
